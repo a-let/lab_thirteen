@@ -41,6 +41,9 @@ namespace lab_thirteen
 
             sheep.resetCount();
             CountUtil.count(sheep, 1);
+
+            Console.Write("\n" + DateTime.Now);
+            Console.Read();
         }
     }
 }

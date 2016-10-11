@@ -4,3 +4,9 @@ C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_thirteen\lab_thirt
 C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_thirteen\lab_thirteen\obj\Debug\lab_thirteen.csprojResolveAssemblyReference.cache
 C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_thirteen\lab_thirteen\obj\Debug\lab_thirteen.exe
 C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_thirteen\lab_thirteen\obj\Debug\lab_thirteen.pdb
+C:\Users\green_arrow\Documents\GitHub\lab_thirteen\lab_thirteen\bin\Debug\lab_thirteen.exe.config
+C:\Users\green_arrow\Documents\GitHub\lab_thirteen\lab_thirteen\obj\Debug\lab_thirteen.exe
+C:\Users\green_arrow\Documents\GitHub\lab_thirteen\lab_thirteen\obj\Debug\lab_thirteen.pdb
+C:\Users\green_arrow\Documents\GitHub\lab_thirteen\lab_thirteen\bin\Debug\lab_thirteen.exe
+C:\Users\green_arrow\Documents\GitHub\lab_thirteen\lab_thirteen\bin\Debug\lab_thirteen.pdb
+C:\Users\green_arrow\Documents\GitHub\lab_thirteen\lab_thirteen\obj\Debug\lab_thirteen.csprojResolveAssemblyReference.cache
